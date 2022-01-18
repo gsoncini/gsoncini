@@ -8,7 +8,7 @@ Sou pago para resolver problemas utilizando Infraestrutura Hyper-convergente, Li
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsoncini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<p>       :rocket: 👨‍💻 Analista de Soluções de TI na @newfront.cloud </p>
+<p>       :rocket: :cloud: Analista de Soluções de TI na @newfront.cloud </p>
   
  ##
   
@@ -27,7 +27,7 @@ Sou pago para resolver problemas utilizando Infraestrutura Hyper-convergente, Li
  <img align="center" alt="GS-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="GS-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  
-    
+  
  </div>
   
 
