@@ -1,6 +1,6 @@
 ## Olá, eu sou o Guilherme! 👋
 
-Sou pago para resolver problemas utilizando Infraestrutura Hyper-convergente, Linux, Containers, automação, segurança da informação entre outros.
+Sou pago para resolver problemas utilizando Infraestrutura Hyper-convergente, Linux, Containers, automação, segurança da informação e muito DevOPS.
 
 <div align="center">
   <a href="https://github.com/gsoncini">
