@@ -9,7 +9,7 @@ Sou pago para resolver problemas utilizando Infraestrutura Hyper-convergente, Li
 </div>
 
   ### Sobre mim
-<p>      - :rocket: Trabalho: Analista de Soluções de TI na @newfront.cloud  :cloud: </p>
+<p>      - :rocket: Trabalho: Analista de Soluções em TI na @newfront.cloud  :cloud: </p>
 <p>      - 👨‍🎓 Formação: Análise e desenvolvimento de sistemas </p>
 
   
