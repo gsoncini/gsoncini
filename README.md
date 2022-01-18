@@ -11,7 +11,7 @@ Sou pago para resolver problemas utilizando Infraestrutura Hyper-convergente, Li
   ### Sobre mim
 <p>      - :rocket: Trabalho: Analista de Soluções em TI na @newfront.cloud  :cloud: </p>
 <p>      - 👨‍🎓 Formação: Análise e desenvolvimento de sistemas </p>
-<p>      - 🎯 Interesses: Monitoramento, Virtualização, Infraestrutura Hyper-convergente, Software Defined Storage, Azure, AWS, Docker, Automação de Serviços e muito mais.</p>
+<p>      - 🎯 Interesses: Monitoramento, Virtualização, Infraestrutura Hyper-convergente, Software Defined Storage, Azure, AWS, Docker, automação e muito mais..</p>
   
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
