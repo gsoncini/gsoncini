@@ -8,8 +8,9 @@ Sou pago para resolver problemas utilizando Infraestrutura Hyper-convergente, Li
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsoncini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<p>       :rocket: :cloud: Analista de Soluções de TI na @newfront.cloud </p>
-  
+  ### Sobre mim
+<p>      - :rocket: Trabalho:  :cloud: Analista de Soluções de TI na @newfront.cloud </p>
+<p>      - 👨‍🎓 Formação: Análise e desenvolvimento de sistemas </p>
  ##
   
 <div> 
