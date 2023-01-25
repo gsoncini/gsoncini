@@ -2,12 +2,6 @@
 
 Sou pago para resolver problemas utilizando Infraestrutura Hyper-convergente, Linux, Containers, automação e segurança da informação.
 
-<div align="center">
-  <a href="https://github.com/gsoncini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsoncini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsoncini&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
   ### Sobre mim
 - <p>      :rocket: Trabalho: Especialista de Soluções em TI na @newfront.cloud  :cloud: </p>
 - <p>      👨‍🎓 Formação: Análise e desenvolvimento de sistemas </p>
